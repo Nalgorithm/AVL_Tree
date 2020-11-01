@@ -1,6 +1,6 @@
 # AVL_Tree
-Реализация АВЛ-дерева в виде контейнера, обеспеченного двунаправленным итератором.
-Интерфейс класса:
+AVL-tree implimentation as a container with bi-directional iterator
+Class interface:
 ```C++
 template<class T, class Compare = std::less<T>>
 class BST {
